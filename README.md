@@ -22,10 +22,10 @@ São mais de 15 anos entre a operação e a tecnologia: comecei na logística, c
 
 ## Ferramentas
 
-**Linguagens e dados:** Python · SQL (PostgreSQL, SQL Server, Oracle)
-**Integração e automação:** APIs REST · webhooks · RPA · ODK
-**Infraestrutura:** Linux · Docker · Git
-**Gestão:** Scrum · Jira · MS Project
+- **Linguagens e dados:** Python · SQL (PostgreSQL, SQL Server, Oracle)
+- **Integração e automação:** APIs REST · webhooks · RPA · ODK
+- **Infraestrutura:** Linux · Docker · Git
+- **Gestão:** Scrum · Jira · MS Project
 
 ## Contato
 
@@ -35,4 +35,4 @@ Atendo projetos sob demanda, com nota fiscal, pela Zero e Um Soluções.
 
 ---
 
-*🇺🇸 Systems integration, automation and data for logistics and industrial operations. 15+ years bridging operations and technology, 300+ projects delivered. Open to project-based work.*
+***EN:** Systems integration, automation and data for logistics and industrial operations. 15+ years bridging operations and technology, 300+ projects delivered. Open to project-based work.*
