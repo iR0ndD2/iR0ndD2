@@ -20,6 +20,7 @@ São mais de 15 anos entre a operação e a tecnologia: comecei na logística, c
 |---|---|
 | [**Checklist automatizado com ODK**](https://github.com/iR0ndD2/checklist-automatizado-odk) | Vistoria de veículos, recebimento logístico e manutenção industrial no celular, com PDF e e-mail automáticos. Python, PostgreSQL, Docker e API do ODK Central. |
 | [**Integração de NF-e via API**](https://github.com/iR0ndD2/integracao-nfe-api) | A nota do fornecedor vira pré-recebimento no WMS sem digitação: validação fiscal (inclusive CNPJ alfanumérico), de-para de produtos e conferência pós-gravação. Python, FastAPI e Docker. |
+| [**Pipeline de dados logísticos**](https://github.com/iR0ndD2/pipeline-dados-logistica) | Dados do WMS viram indicadores de estoque e expedição: carga incremental, PostgreSQL em camadas, painel e relatório diário por e-mail para cada cliente. Python, SQL e Docker. |
 
 ## Ferramentas
 
